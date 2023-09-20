@@ -21,3 +21,4 @@ https://daveredrum.github.io/Text2Tex/
 
 ## Output
 
+https://github.com/camenduru/Text2Tex-colab/assets/54370274/9a82a3ba-a195-4849-8d67-416773711817
