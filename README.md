@@ -10,6 +10,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Text2Tex-colab/blob/main/Text2Tex_colab.ipynb) | Text2Tex_colab
 
+## Tutorial
+https://github.com/daveredrum/Text2Tex#try-your-own-mesh
+
 ## Main Repo
 https://github.com/daveredrum/Text2Tex
 
